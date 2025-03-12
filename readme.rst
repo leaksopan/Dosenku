@@ -39,7 +39,7 @@ Instalasi
 ************
 
 1. Clone repositori ini ke direktori web server Anda:
-   ``git clone https://github.com/username/ProjectDosenku.git``
+   ``git clone https://github.com/leaksopan/ProjectDosenku.git``
 
 2. Buat database MySQL baru dan import file SQL yang disediakan di folder ``database``
 
