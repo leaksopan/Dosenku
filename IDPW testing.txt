@@ -1,0 +1,8 @@
+-- Insert sample user untuk testing
+INSERT INTO users (username, password, email, role) VALUES
+-- Password: admin123
+('admin', '$2y$10$8HMm0q3U4EOJh.muylHZn.6qJ8oEr8Jz9EMX9UbCxAskrUSKD0ZAu', 'admin@dosenku.com', 'admin'),
+-- Password: dosen123
+('dosen', '$2y$10$Yv1WLH8W4yf.JmA9KUB9xuZA3UJw.3u/wJj4hkGYYX6.dHHZxEKk2', 'dosen@dosenku.com', 'dosen'),
+-- Password: mhs123
+('mahasiswa', '$2y$10$2RCR4VNJ.J9EbPl2qEHEO.iAJHnHXLZBYWFqk41KVPtH.K.YtbgCG', 'mhs@dosenku.com', 'mahasiswa');
